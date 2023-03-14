@@ -116,10 +116,13 @@ justify-content: center;
 #karen {
     font-size: 18px;
     font-weight: bold;
+    margin-left: auto;
+    padding-right: 60px;
+    margin-top: 0;
 }
 .quote {
-    margin-right: 60px;
-    margin-left: 60px;
+    padding-right: 60px;
+    padding-left: 60px;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -158,5 +161,7 @@ justify-content: center;
   padding: 40px;
 }
 li {
-    text-align: center;
+    text-align: justify;
+    width: 250px;
+    height: 100px;
 }
