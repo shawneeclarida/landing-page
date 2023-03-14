@@ -1,0 +1,162 @@
+body {
+    font-family: Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+ul {
+    list-style: none;
+    margin:0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #babcc0;
+}
+.links {
+    display: flex;
+    gap: 15px;
+}
+.info {
+    color: #babcc0;
+}
+.logo {
+font-size: 24px;
+color: #F9FAF8;
+}
+.under-header {
+display: flex; 
+padding-top: 80px;
+padding-bottom: 80px;
+padding-left: 100px;
+padding-right: 100px;   
+}
+.compost {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.under-header2 {
+    margin-left: 60px;
+    width: 300px;
+    height: auto;
+}
+img {
+    width: 250px;
+    height:250px;
+    border-radius: 10%;
+}
+#pretty-dog {
+    width: 250px;
+    height: auto;
+    border-radius: 0%;
+}
+.one {
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+}
+button {
+    background:#3882F6;
+    border-radius: 10px;
+    padding: 5px;
+    width: 80px;
+    height: 30px;
+    color: #F9FAF8;
+}
+.two {
+display: flex;
+flex-direction: column;
+padding: 50px;
+justify-content: center;
+
+}
+.doggo-approved {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.img-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+    padding: 60px;
+    flex-wrap: wrap;
+
+}
+#karen {
+    font-size: 18px;
+    font-weight: bold;
+}
+.quote {
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+
+.four{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background:#3882F6;
+    margin: 150px;
+    padding: 10px;
+    border-radius: 15px;
+    width: 600px;
+    height: 125px;
+    color: #F9FAF8;
+}
+.poop-scoop {
+    display: flex;
+    flex-direction: column;
+}
+.ps {
+    margin: 0;
+}
+.su {
+    margin: 0;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  padding: 40px;
+}
+li {
+    text-align: center;
+}
