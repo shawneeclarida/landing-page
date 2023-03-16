@@ -126,10 +126,7 @@ justify-content: center;
     margin-top: 0;
     margin-bottom: 0;
 }
-
-
-
-.four{ 
+.blue { 
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -145,6 +142,11 @@ justify-content: center;
 .poop-scoop {
     display: flex;
     flex-direction: column;
+}
+.four {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .ps {
     margin: 0;
